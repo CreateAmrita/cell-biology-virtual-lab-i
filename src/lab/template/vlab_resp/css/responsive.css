@@ -1,0 +1,336 @@
+/* Responsive styles*/
+
+
+/* IPad in landscape (width:1024px) */
+@media only screen and (min-width: 1148px) {
+html, body {
+	overflow: hidden !important;
+}
+header, #expName, .mainTitle {
+}
+header, .body, footer {
+	width: 99.4%;
+	max-width: 99.4%;
+}
+#menu {
+	right: 320px;
+	top: 75px;
+}
+.menu-link {
+	position: fixed;
+	right: 320px;
+	display: none;
+}
+#layout.active .menu-link {
+	right: 320px;
+}
+.main {
+	position: relative;
+	right: 0px;
+}
+.canvasHolder {
+	clear: both;
+	top: 0px;
+	width: 72%;
+}
+#canvasBox {
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+}
+}
+
+
+/* IPad in portrait (width:768px) */
+@media only screen and (min-width: 768px) and (max-width: 1147px) {
+html, body {
+	overflow: hidden !important;
+}
+/* Page Specific */
+header, #expName, .mainTitle {
+	font-size: 105%;
+	text-align: left;
+}
+header, footer, .body {
+	width: 98.4%;
+	max-width: 98.4%;
+}
+.footer {
+	max-width: 100% !important;
+}
+#layout {
+	overflow: hidden;
+}
+#layout.active {
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+.main {
+	position: relative !important;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	z-index: 1;
+}
+#menu {
+	position: absolute;
+	top: 75px;
+	z-index: 10;
+}
+.canvasHolder {
+	top: 0px;
+	width: 92%;
+}
+#canvasBox {
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+}
+#canvasBox .buttons {
+	background: #fff !important;
+	padding: 2% 3% !important;
+	margin: 3px !important;
+}
+}
+
+
+/* IPhone landscape/Galaxy Tab(width:480px) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+html, body {
+	overflow: hidden !important;
+}
+/* Page Specific */
+header, #expName, .mainTitle {
+	font-size: 105%;
+	text-align: left;
+}
+header, footer, .body {
+	width: 98.4%;
+	max-width: 98.4%;
+}
+.footer {
+	max-width: 100% !important;
+}
+#layout {
+	overflow: hidden;
+}
+#layout.active {
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+.main {
+	position: relative !important;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	z-index: 1;
+}
+#menu {
+	position: absolute;
+	top: 75px;
+	z-index: 10;
+}
+.canvasHolder {
+	top: 0px;
+	width: 92%;
+}
+#canvasBox {
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+}
+#canvasBox .buttons {
+	background: #fff !important;
+	padding: 2% 3% !important;
+	margin: 3px !important;
+}
+}
+ @media only screen and (min-width: 320px) and (max-width: 479px) {
+html, body {
+	overflow: hidden !important;
+}
+/* Page Specific */
+header, #expName, .mainTitle {
+	font-size: 105%;
+	text-align: left;
+}
+header, footer, .body {
+	width: 98.4%;
+	max-width: 98.4%;
+}
+.footer {
+	max-width: 100% !important;
+}
+#layout {
+	overflow: hidden;
+}
+#layout.active {
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+.main {
+	position: relative !important;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	z-index: 1;
+}
+#menu {
+	position: absolute;
+	top: 75px;
+	z-index: 10;
+}
+.canvasHolder {
+	top: 0px;
+	width: 92%;
+}
+#canvasBox {
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+}
+#canvasBox .buttons {
+	background: #fff !important;
+	padding: 2% !important;
+	margin: 3px !important;
+}
+}
+ @media only screen and (min-width: 280px) and (max-width: 319px) {
+html, body {
+	overflow: hidden !important;
+}
+/* Page Specific */
+header, #expName, .mainTitle {
+	font-size: 105%;
+	text-align: left;
+}
+header, footer, .body {
+	width: 98.4%;
+	max-width: 98.4%;
+}
+.footer {
+	max-width: 100% !important;
+}
+#layout {
+	overflow: hidden;
+}
+#layout.active {
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+.main {
+	position: relative !important;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	z-index: 1;
+}
+#menu {
+	position: absolute;
+	top: 75px;
+	z-index: 10;
+}
+.canvasHolder {
+	top: 0px;
+	width: 92%;
+}
+#canvasBox {
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+}
+#canvasBox .buttons {
+	background: #fff !important;
+	padding: 1% !important;
+	margin: 2px !important;
+}
+}
+ @media only screen and (max-width: 279px) {
+html *, body * {
+	display: none;
+}
+html:after, body:after {
+	margin: 15px;
+	display: inline-block;
+	color: #f00;
+	content: "Screen too small to view website. Perhaps you can view in Landscape mode.";
+}
+}
+ @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+}
+.selectContainer select {
+	display: inline-block;
+	border: 1px solid #bbb;
+	padding: 2px 3px 3px 3px;
+	margin: 0;
+	font-size: 120%;
+	outline: none; /* remove focus ring from Webkit */
+	line-height: 1.2;
+	background: #f8f8f8;
+	-moz-border-radius: 0px !important;
+	-webkit-border-radius: 0px !important;
+	-o-border-radius: 0px !important;
+	border-radius: 0px !important;
+	-webkit-appearance: none; /* remove the strong OSX influence from Webkit */
+}
+input[type=button] {
+	display: inline-block;
+	padding: 10px;
+	margin: 0;
+	font-size: 100%;
+	outline: none; /* remove focus ring from Webkit */
+	line-height: 1.2;
+	background-color: button-face;
+	-webkit-appearance: push-button; /* remove the strong OSX influence from Webkit */
+}
+
+    /* for Webkit's CSS-only solution */
+    @media screen and (-webkit-min-device-pixel-ratio:0) {
+.selectContainer select {
+	padding-right: 0px;
+	-moz-border-radius: 0px !important;
+	-webkit-border-radius: 0px !important;
+	-o-border-radius: 0px !important;
+	border-radius: 0px !important;
+}
+input[type=button] {
+	border: 1px solid #bbb;
+	background-color: #f2f2f2;
+}
+}
+/* Since we removed the default focus styles, we have to add our own */
+select:focus {
+	-webkit-box-shadow: 0 0 3px 1px #c00;
+	-moz-box-shadow: 0 0 3px 1px #c00;
+	box-shadow: 0 0 3px 1px #c00;
+}
+/* Select arrow styling */
+.selectContainer:after {
+	content: "▼";
+	position: relative;
+	top: 0px;
+	right: 22px;
+	bottom: 0;
+	font-size: 80%;
+	line-height: 30px;
+	background: #f8f8f8;
+	background: none !important;
+	color: #666;
+	padding: 10px 6px;
+	pointer-events: none;
+}
+.no-pointer-events .selectContainer:after {
+	content: none;
+}
