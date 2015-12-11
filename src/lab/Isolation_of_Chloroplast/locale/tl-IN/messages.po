@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: d\n"
-"POT-Creation-Date: 2015-10-07 14:19+0530\n"
-"PO-Revision-Date: 2015-10-07 14:27+0530\n"
+"POT-Creation-Date: 2015-10-07 14:28+0530\n"
+"PO-Revision-Date: 2015-10-07 14:38+0530\n"
 "Last-Translator: \n"
 "Language-Team: d\n"
 "Language: hi\n"
@@ -16,181 +16,181 @@ msgstr ""
 
 #: UserController.js:14
 msgid "Error"
-msgstr "പിശക്"
+msgstr "பிழை"
 
 #: UserController.js:14 experiment.js:284
 msgid "Voltage of both heaters must be same."
-msgstr "ഇരു ഹീറ്റർ എന്ന വോൾട്ടേജ് ഇതേ ആവശ്യം."
+msgstr "இருவரும் ஹீட்டர்கள் மின்னழுத்த அதே இருக்க வேண்டும்."
 
 #: UserController.js:14
 msgid "Okay"
-msgstr "ശരി"
+msgstr "சரி"
 
 #: experiment.js:270
 msgid "help1"
-msgstr "വ്യാസം, കനം താപനില സ്ലൈഡറുകൾ മാറ്റുക."
+msgstr "விட்டம், தடிமன் மற்றும் வெப்பநிலை ஸ்லைடர்களை மாற்ற."
 
 #: experiment.js:270
 msgid "help2"
-msgstr "ടി.പി. ബിപി വോൾട്ടേജിനും മാറ്റുക"
+msgstr "டி.பி.கஜேந்திரன் மற்றும் BP மின்னழுத்தம் மாற்றவும்"
 
 #: experiment.js:270
 msgid "help3"
-msgstr "ഡ്രോപ്ഡൌൺ പട്ടികയില് മെറ്റീരിയലുകള്. അവിടെ നിന്ന് അവരെ ഏതെങ്കിലും തിരഞ്ഞെടുക്കാൻ കഴിയും."
+msgstr "கீழிறங்கும் பட்டியலில் பொருட்கள் containis. நாம் அங்கு இருந்து அவர்கள் எந்த தேர்வு செய்யலாம்."
 
 #: experiment.js:270
 msgid "help4"
-msgstr "ടി.പി. ബി.പി സിച്ചിടല് മാറ്റാൻ കഴിയും."
+msgstr "டி.பி.கஜேந்திரன் மற்றும் BP சுவிட்ச் மாற்ற"
 
 #: experiment.js:270
 msgid "help5"
-msgstr "സൂചകം മൂല്യം ഇൻഡിക്കേറ്റർ ബട്ടണുകൾ ഉപയോഗിച്ച് മാറ്റാൻ കഴിയും."
+msgstr "குறியீட்டு மதிப்பு காட்டி பொத்தான்கள் பயன்படுத்தி மாற்ற முடியும்."
 
 #: experiment.js:270
 msgid "help6"
-msgstr "ബട്ടണിൽ ബട്ടൺ അല്ലെങ്കിൽ മോട്ടോർ ന് പവർ ക്ലിക്ക് ചെയ്യുക."
+msgstr "பொத்தானை பொத்தானை அல்லது மோட்டார் இல் பவர் மீது கிளிக் செய்யவும்."
 
 #: experiment.js:270
 msgid "help7"
-msgstr "കാണിക്കുക ഫലമായി ഓഫ് ദി പ്ലേറ്റ് emissivity അടങ്ങിയിരിക്കുന്നു."
+msgstr "காட்டு விளைவாக ദി தட்டு கதிர்வீச்சுத்திறனைக் கொண்டிருக்கிறது."
 
 #: experiment.js:270
 msgid "Next"
-msgstr "അടുത്തത്"
+msgstr "அடுத்த"
 
 #: experiment.js:270
 msgid "Close"
-msgstr "അടയ്ക്കുക"
+msgstr "நெருக்கமான"
 
 #: experiment.js:271
 msgid "Heat Transfer by Radiation"
-msgstr "റേഡിയേഷൻ പ്രകാരം ഹീറ്റ് ട്രാൻസ്ഫർ"
+msgstr "கதிர்வீச்சு மூலம் வெப்ப மாற்றம்"
 
 #: experiment.js:272
 msgid "Variables"
-msgstr "വേരിയബിള്സ്"
+msgstr "மாறிகள்"
 
 #: experiment.js:273
 msgid "Choose Material:"
-msgstr "മെറ്റീരിയൽ തിരഞ്ഞെടുക്കുക:"
+msgstr "பொருள் தேர்வு:"
 
 #: experiment.js:274 experiment.js:287
 msgid "Aluminium"
-msgstr "അലുമിനിയം"
+msgstr "அலுமினியம்"
 
 #: experiment.js:275
 msgid "Diameter of the plates (cm):"
-msgstr "പ്ലേറ്റുകൾ വ്യാസം ( സെ.മീ ) :"
+msgstr "தகடுகள் (செ.மீ) விட்டம்:"
 
 #: experiment.js:276
 msgid "Thickness of the plates (cm):"
-msgstr "പ്ലേറ്റുകൾ കനം ( സെ.മീ ):"
+msgstr "தகடுகள் (செ.மீ) தடிமன்:"
 
 #: experiment.js:277
 msgid "Chamber temperature (C):"
-msgstr "ചേംബർ താപനില (സി):"
+msgstr "அறையின் வெப்பநிலை (சி):"
 
 #: experiment.js:278
 msgid "Show Result"
-msgstr "കാണിക്കുക ഫലം"
+msgstr "காட்டு முடிவு"
 
 #: experiment.js:279
 msgid "Power On"
-msgstr "പവർ"
+msgstr "பவர்"
 
 #: experiment.js:280
 msgid "Reset"
-msgstr "പുനഃസജ്ജമാക്കുക"
+msgstr "மீட்டமை"
 
 #: experiment.js:282
 msgid "Measurements"
-msgstr "അളവുകളും"
+msgstr "அளவீடுகள்"
 
 #: experiment.js:283
 msgid "Emissivity of the test plate:"
-msgstr "ടെസ്റ്റ് പ്ലാറ്റ്ഫോമിന്റെ Emissivity:"
+msgstr "சோதனை தட்டு வெளியிடல்:"
 
 #: experiment.js:285
 msgid "copyright"
-msgstr "പകർപ്പവകാശം © അമൃത യൂണിവേഴ്സിറ്റി 2009 - 2015"
+msgstr "2009 - 2015 பதிப்புரிமை © அம்ரிதா பல்கலைக்கழகம்"
 
 #: experiment.js:287
 msgid "Brass"
-msgstr "ബാസ്സ്"
+msgstr "பிராஸ்"
 
 #: experiment.js:287
 msgid "Iron"
-msgstr "ഇരുമ്പ്"
+msgstr "இரும்பு"
 
 #: experiment.js:287
 msgid "Steel"
-msgstr "ഉരുക്ക്"
+msgstr "ஸ்டீல்"
 
 #: experiment.js:287
 msgid "Copper"
-msgstr "ചെന്വ്"
+msgstr "காப்பர்"
 
 #: experiment.js:387 experiment.js:606
 msgid "START"
-msgstr "തുടക്കം"
+msgstr "ஸ்டார்ட்"
 
 #: experiment.js:575
 msgid "STOP"
-msgstr "നിർത്തുക"
+msgstr "ஸ்டா"
 
 #~ msgid "Temperature (Y axis) Vs Time (X axis)"
-#~ msgstr "താപനില ( വൈ അച്ചുതണ്ട് ) Vs സമയം ( എക്സ് അച്ചുതണ്ട് )"
+#~ msgstr "ఉష్ణోగ్రత (Y అక్షం ) Vs సమయం ( x- యాక్సిస్)"
 
 #~ msgid "Time (in minutes)"
-#~ msgstr "സമയം ( മിനിറ്റ് )"
+#~ msgstr "సమయం (నిమిషాలు )"
 
 #~ msgid "Temperature"
-#~ msgstr "താപനില "
+#~ msgstr "ఉష్ణోగ్రత"
 
 #~ msgid "Start Experiment"
-#~ msgstr "പരീക്ഷണം ആരംഭിക്കുക"
+#~ msgstr "పరీక్ష ప్రారంభించవచ్చు"
 
 #~ msgid "Thermometer reading:"
-#~ msgstr "താപമാപിനി വായന:"
+#~ msgstr "థర్మామీటర్ చదవడానికి:"
 
 #~ msgid "Show Graph"
-#~ msgstr "ഗ്രാഫ് കാണിക്കുക"
+#~ msgstr "గ్రాఫ్ను చూపు"
 
 #~ msgid "Water"
-#~ msgstr "വെള്ളം"
+#~ msgstr "నీరు"
 
 #~ msgid "Plot Graph"
-#~ msgstr "പ്ലോട്ട് ഗ്രാഫ്"
+#~ msgstr "ప్లాట్ గ్రాఫ్"
 
 #~ msgid "Newton's Law of Cooling"
-#~ msgstr "തണുപ്പിക്കൽ ന്യൂട്ടന്റെ നിയമം"
+#~ msgstr "శీతలీకరణ న్యూటన్ యొక్క లా"
 
 #~ msgid "Select material:"
-#~ msgstr "പദാര്‍ത്ഥം തിരഞ്ഞെടുക്കുക:"
+#~ msgstr "ఎంపిక పదార్థం :"
 
 #~ msgid "Select liquid:"
-#~ msgstr "ദ്രാവകം തിരഞ്ഞെടുക്കുക:"
+#~ msgstr "ఎంపిక ద్రవ"
 
 #~ msgid "Silver"
-#~ msgstr "വെള്ളി"
+#~ msgstr "సిల్వర్"
 
 #~ msgid "Milk"
-#~ msgstr "പാല്‍"
+#~ msgstr "మిల్క్"
 
 #~ msgid "Vegetable oil"
-#~ msgstr "പച്ചക്കറി എണ്ണ"
+#~ msgstr "వెజిటబుల్ నూనె"
 
 #~ msgid "Olive oil"
-#~ msgstr "ഒലിവ് എണ്ണ"
+#~ msgstr "ఆలివ్ నూనె"
 
 #~ msgid "Start Heating"
-#~ msgstr "ഹീറ്റിംഗ് ആരംഭിക്കുക"
+#~ msgstr "తాపన మొదలు"
 
 #~ msgid "Stop Heating"
-#~ msgstr "ചൂടാക്കല് നിർത്തുക"
+#~ msgstr "తాపన ఆపడానికి"
 
 #~ msgid "Stop Plotting"
-#~ msgstr "ഗ്രാഫ് പ്ലോട്ട് നിർത്തുക"
+#~ msgstr "వీరిలో ఆపడానికి"
 
 #~ msgid "Thermometer reading: "
 #~ msgstr "താപമാപിനി വായന:"

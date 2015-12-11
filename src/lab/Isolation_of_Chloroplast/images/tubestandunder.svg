@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="277.33px" height="160.67px" viewBox="0 0 277.33 160.67" enable-background="new 0 0 277.33 160.67" xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="138.5254" y1="138.8667" x2="138.5254" y2="156.4667">
+		<stop  offset="0" style="stop-color:#000000;stop-opacity:0.9412"/>
+		<stop  offset="0.6667" style="stop-color:#000000;stop-opacity:0.3059"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" points="3.2,140.87 4.6,122.67 270,122.67 272.8,140.87 
+		275.05,155.92 2,155.92 	"/>
+</g>
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#4C271E" d="M263.05,37.92v110.2l-7-39.05v-4.25c0-0.13,0-0.27,0-0.4V1.37
+			h0.85l6.15,36.5V37.92z"/>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="264.9746" y1="36.0664" x2="264.9746" y2="6.4664">
+			<stop  offset="0" style="stop-color:#9C4D38"/>
+			<stop  offset="1" style="stop-color:#D4785F"/>
+		</linearGradient>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" points="263.05,37.92 263.05,37.87 256.9,1.37 
+			266.2,1.37 273.05,35.92 273.05,37.92 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#683426" points="263.05,148.12 263.05,37.92 273.05,37.92 273.05,149.42 
+			263.05,149.42 		"/>
+	</g>
+	<g>
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="8.625" y1="27.2666" x2="8.625" y2="1.6666">
+			<stop  offset="0" style="stop-color:#9C4D38"/>
+			<stop  offset="1" style="stop-color:#D4785F"/>
+		</linearGradient>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_3_)" points="14.45,1.37 12.8,37.92 2.8,37.92 2.8,35.92 
+			5.15,1.37 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#4C271E" points="12.8,148.12 12.8,37.92 14.45,1.37 15.3,1.37 
+			15.3,104.82 15.3,109.07 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#683426" points="12.8,37.92 12.8,148.12 12.8,149.42 2.8,149.42 
+			2.8,37.92 		"/>
+	</g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#4C271E" d="M119.05,45.22l0.6,4.65v15.5h-0.7L119.05,45.22z M160.25,45.07
+			l1.65,20.25l-0.75,0.05l-1.25-15.45v-0.05h-0.05L160.25,45.07z M161.15,129.32l-1.25-15.45v-0.05h-0.05l0.05-0.5l-0.3-3.4h0.1
+			l0.4-1.35h0.1l1.7,20.7v0.05H161.15z M119.7,109.92l-0.05,19.4h-0.7l0.1-20.7l0.55,1.3H119.7z M246.05,49.87l0.3-4.8l2.2,20.25
+			l-0.75,0.05l-1.7-15.45v-0.05H246.05z M205.85,49.87l0.45,15.5h-0.7l-0.45-20.15L205.85,49.87z M247.35,109.92l0.2-1.65h0.05
+			l2.3,20.7v0.05h-0.7l-1.9-19L247.35,109.92z M206.45,108.42l0.5,1.5h-0.3l0.55,3.6l0.45,15.5h-0.7L206.45,108.42z M36.55,45.22
+			l0.6,4.65v15.5h-0.7L36.55,45.22z M78.15,49.87l1.25,15.5h-0.75L77.4,49.92L78.15,49.87h-0.8l0.4-4.8L78.15,49.87z M37.15,129.02
+			h-0.7l0.1-20.75l0.65,1.9c0-0.07,0-0.15,0-0.25c0.03,0.13,0.05,0.28,0.05,0.45c0.03,0.63,0,1.68-0.1,3.15V129.02z M78.8,129.02
+			l-1.45-19.1h0.05l0.3-1.65l1.7,20.7L78.8,129.02z"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#4C271E" d="M119.05,45.22l0.6,4.65v15.5h-0.7L119.05,45.22z M160.25,45.07
+			l1.65,20.25l-0.75,0.05l-1.25-15.45v-0.05h-0.05L160.25,45.07z M161.15,129.32l-1.25-15.45v-0.05h-0.05l0.05-0.5l-0.3-3.4h0.1
+			l0.4-1.35h0.1l1.7,20.7v0.05H161.15z M119.7,109.92l-0.05,19.4h-0.7l0.1-20.7l0.55,1.3H119.7z M246.05,49.87l0.3-4.8l2.2,20.25
+			l-0.75,0.05l-1.7-15.45v-0.05H246.05z M205.85,49.87l0.45,15.5h-0.7l-0.45-20.15L205.85,49.87z M247.35,109.92l0.2-1.65h0.05
+			l2.3,20.7v0.05h-0.7l-1.9-19L247.35,109.92z M206.45,108.42l0.5,1.5h-0.3l0.55,3.6l0.45,15.5h-0.7L206.45,108.42z M36.55,45.22
+			l0.6,4.65v15.5h-0.7L36.55,45.22z M78.15,49.87l1.25,15.5h-0.75L77.4,49.92L78.15,49.87h-0.8l0.4-4.8L78.15,49.87z M37.15,129.02
+			h-0.7l0.1-20.75l0.65,1.9c0-0.07,0-0.15,0-0.25c0.03,0.13,0.05,0.28,0.05,0.45c0.03,0.63,0,1.68-0.1,3.15V129.02z M78.8,129.02
+			l-1.45-19.1h0.05l0.3-1.65l1.7,20.7L78.8,129.02z"/>
+		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-16.1001" y1="55.3916" x2="226.2999" y2="55.3916">
+			<stop  offset="0" style="stop-color:#E2856C"/>
+			<stop  offset="1" style="stop-color:#AF5C46"/>
+		</linearGradient>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_4_)" d="M160.25,45.07l-0.05-0.45h-41.15v0.6l-0.1,20.15h0.7h41.5
+			l0.75-0.05L160.25,45.07z M206.3,65.37h41.5l0.75-0.05l-2.2-20.25l-0.1-0.45h-41.1v0.6l0.45,20.15H206.3z M261.1,69.62H13.5V41.17
+			h244.15L261.1,69.62z M78.15,49.87l-0.4-4.8l-0.05-0.45H36.55v0.6l-0.1,20.15h0.7h41.5h0.75L78.15,49.87z"/>
+		<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="-16.1001" y1="55.3916" x2="226.2999" y2="55.3916">
+			<stop  offset="0" style="stop-color:#E2856C"/>
+			<stop  offset="1" style="stop-color:#AF5C46"/>
+		</linearGradient>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_5_)" d="M160.25,45.07l-0.05-0.45h-41.15v0.6l-0.1,20.15h0.7h41.5
+			l0.75-0.05L160.25,45.07z M206.3,65.37h41.5l0.75-0.05l-2.2-20.25l-0.1-0.45h-41.1v0.6l0.45,20.15H206.3z M261.1,69.62H13.5V41.17
+			h244.15L261.1,69.62z M78.15,49.87l-0.4-4.8l-0.05-0.45H36.55v0.6l-0.1,20.15h0.7h41.5h0.75L78.15,49.87z"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#683426" d="M160.25,45.07l-0.4,4.8h-40.2l-0.6-4.65v-0.6h41.15L160.25,45.07
+			z M159.6,109.92l0.3,3.4l-0.05,0.5h0.05v0.05l1.25,15.45h-41.5l0.05-19.4H159.6z M246.05,49.87h-40.2l-0.7-4.65v-0.6h41.1
+			l0.1,0.45L246.05,49.87z M13.5,69.62h247.6v8.3H13.5V69.62z M206.95,109.92h40.4l-0.05,0.1l1.9,19h-41.55l-0.45-15.5l-0.55-3.6
+			H206.95z M77.75,45.07l-0.4,4.8h-40.2l-0.6-4.65v-0.6H77.7L77.75,45.07z M37.2,109.92h40.15l1.45,19.1H37.15v-15.5
+			c0.1-1.47,0.13-2.52,0.1-3.15C37.25,110.2,37.23,110.05,37.2,109.92z M13.1,133.37h249.2v8.3H13.1V133.37z"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#683426" d="M160.25,45.07l-0.4,4.8h-40.2l-0.6-4.65v-0.6h41.15L160.25,45.07
+			z M159.6,109.92l0.3,3.4l-0.05,0.5h0.05v0.05l1.25,15.45h-41.5l0.05-19.4H159.6z M246.05,49.87h-40.2l-0.7-4.65v-0.6h41.1
+			l0.1,0.45L246.05,49.87z M13.5,69.62h247.6v8.3H13.5V69.62z M206.95,109.92h40.4l-0.05,0.1l1.9,19h-41.55l-0.45-15.5l-0.55-3.6
+			H206.95z M77.75,45.07l-0.4,4.8h-40.2l-0.6-4.65v-0.6H77.7L77.75,45.07z M37.2,109.92h40.15l1.45,19.1H37.15v-15.5
+			c0.1-1.47,0.13-2.52,0.1-3.15C37.25,110.2,37.23,110.05,37.2,109.92z M13.1,133.37h249.2v8.3H13.1V133.37z"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#582C21" d="M160.1,108.57l-0.4,1.35h-0.1h-39.9h-0.1l-0.55-1.3v-0.05H160.1z
+			 M247.35,109.92h-40.4l-0.5-1.5v-0.15h41.1L247.35,109.92z M77.35,109.92H37.2c0,0.1,0,0.18,0,0.25l-0.65-1.9H77.7l-0.3,1.65
+			H77.35z"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#582C21" d="M160.1,108.57l-0.4,1.35h-0.1h-39.9h-0.1l-0.55-1.3v-0.05H160.1z
+			 M247.35,109.92h-40.4l-0.5-1.5v-0.15h41.1L247.35,109.92z M77.35,109.92H37.2c0,0.1,0,0.18,0,0.25l-0.65-1.9H77.7l-0.3,1.65
+			H77.35z"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#80462E" d="M119.05,108.62l-0.1,20.7h0.7h41.5h0.75v-0.05l-1.7-20.7h-0.1
+			h-41.05V108.62z M206.45,108.42l0.5,20.6h0.7h41.55h0.7v-0.05l-2.3-20.7h-0.05h-41.1V108.42z M37.15,129.02H78.8l0.6-0.05
+			l-1.7-20.7H36.55l-0.1,20.75H37.15z M13.1,133.37l0.6-27.9h245.25l3.35,27.9H13.1z"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#80462E" d="M119.05,108.62l-0.1,20.7h0.7h41.5h0.75v-0.05l-1.7-20.7h-0.1
+			h-41.05V108.62z M206.45,108.42l0.5,20.6h0.7h41.55h0.7v-0.05l-2.3-20.7h-0.05h-41.1V108.42z M37.15,129.02H78.8l0.6-0.05
+			l-1.7-20.7H36.55l-0.1,20.75H37.15z M13.1,133.37l0.6-27.9h245.25l3.35,27.9H13.1z"/>
+	</g>
+	<g>
+		
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#9F553B" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+			M13.5,133.37h247.55 M13.5,69.62h247.55"/>
+	</g>
+</g>
+</svg>

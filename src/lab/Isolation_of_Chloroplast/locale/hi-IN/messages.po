@@ -1,183 +1,311 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: d\n"
-"POT-Creation-Date: 2015-09-07 11:04+0530\n"
-"PO-Revision-Date: 2015-09-07 11:20+0530\n"
+"POT-Creation-Date: 2015-12-07 15:33+0530\n"
+"PO-Revision-Date: 2015-12-08 10:22+0530\n"
 "Last-Translator: \n"
 "Language-Team: d\n"
 "Language: hi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.2\n"
+"X-Generator: Poedit 1.6.10\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: simcontrols.js:25
-msgid "Isolation of chloroplast"
-msgstr "क्लोरोप्लास्ट का अलगाव"
-
-#: simcontrols.js:248
-msgid "Instructions"
-msgstr "अनुदेश"
-
-#: simcontrols.js:249
-msgid ""
-"1. Press the absorbance switch to get  the absorbance values.<br><br>2. "
-"Press down the arrow button till points to 650 nm.<br><br>3. Then press the "
-"enter button.It will display absorbance value 650 nm.<br><br>4. Click on the "
-"lid of the  cuvette slot.<br><br>5. Place the Blank in to the cuvette slot."
-"<br><br>6. Press the Blank button.<br><br>7. Take out the Blank cuvette and "
-"place the sample cuvette in to the  slot.<br><br>8. Press the Sample button."
-"<br><br>9. Repeat the  steps 7 & 8 to get the second sample reading."
+#: experiment.js:164
+msgid "DNA"
 msgstr ""
-"1. प्रेस absorbance के absorbance के मूल्यों को प्राप्त करने के लिए स्विच।<br><br>2. 650 "
-"एनएम के लिए अंक तक नीचे तीर बटन 2. प्रेस।<br><br>3. फिर दर्ज button.It absorbance "
-"के मूल्य 650 एनएम प्रदर्शित करेगा दबाएँ।<br><br>4. क्युवेट स्लॉट के ढक्कन पर क्लिक करें।"
-"<br><br>5. जहाँ क्युवेट स्लॉट के लिए में खाली।<br><br>6. प्रेस बटन रिक्त।<br><br>7. "
-"रिक्त क्युवेट बाहर ले, और स्लॉट के लिए नमूना क्युवेट जगह है।<br><br>8. प्रेस नमूना बटन।"
-"<br><br>9. चरणों को दोहराएँ 7 एवं 8 दूसरा नमूना पढ़ पाने के लिए।"
 
-#: simcontrols.js:250
-msgid "Measurements"
-msgstr "माप"
+#: experiment.js:165
+msgid "RNA"
+msgstr ""
 
-#: simcontrols.js:251
+#: experiment.js:166
+msgid "protein"
+msgstr "प्रोटीन"
+
+#: experiment.js:167
+msgid "OD 600"
+msgstr ""
+
+#: experiment.js:168
+msgid "dye 500"
+msgstr ""
+
+#: experiment.js:169
+msgid "dye 650"
+msgstr ""
+
+#: experiment.js:170
+msgid "assay 340"
+msgstr ""
+
+#: experiment.js:171
+msgid "assay 405"
+msgstr ""
+
+#: experiment.js:172
+msgid "assay 490"
+msgstr ""
+
+#: experiment.js:173
+msgid "Absorbance"
+msgstr "शोषक"
+
+#: experiment.js:174
+msgid "Function"
+msgstr "समारोह"
+
+#: experiment.js:175
+msgid "Parameter"
+msgstr "पैरामीटर"
+
+#: experiment.js:176
+msgid "Clear"
+msgstr "स्पष्ट"
+
+#: experiment.js:177
+msgid "Enter"
+msgstr "दर्ज"
+
+#: experiment.js:178
+msgid "Standard"
+msgstr "मानक"
+
+#: experiment.js:179
+msgid "Blank"
+msgstr "रिक्त"
+
+#: experiment.js:180
+msgid "Sample"
+msgstr "नमूना"
+
+#: experiment.js:181
+msgid "405 nm"
+msgstr ""
+
+#: experiment.js:182
+msgid "490 nm"
+msgstr ""
+
+#: experiment.js:183 experiment.js:184
+msgid "550 nm"
+msgstr ""
+
+#: experiment.js:185
+msgid "595 nm"
+msgstr ""
+
+#: experiment.js:186
+msgid "650 nm"
+msgstr ""
+
+#: experiment.js:187
+msgid "Absorbance 650 nm"
+msgstr "शोषक 650 एनएम"
+
+#: experiment.js:188
+msgid "0.000 A"
+msgstr ""
+
+#: experiment.js:189
+msgid "0.580 A"
+msgstr ""
+
+#: experiment.js:190
+msgid "0.610 A"
+msgstr ""
+
+#: experiment.js:414
+msgid "help1"
+msgstr " शोषक मूल्यों को प्राप्त करने के लिए शोषक के स्विच दबाएँ।"
+
+#: experiment.js:414
+msgid "help2"
+msgstr "650 एनएम के लिए अंक तक नीचे तीर बटन दबाएं।"
+
+#: experiment.js:414
+msgid "help3"
+msgstr "तब बटन.शोषक के मूल्य 650 एनएम प्रदर्शित करेगा प्रेस दर्ज करें।"
+
+#: experiment.js:414
+msgid "help4"
+msgstr "क्युवेट स्लॉट के ढक्कन पर क्लिक करें।"
+
+#: experiment.js:414
+msgid "help5"
+msgstr "क्युवेट स्लॉट के लिए में खाली रखें।"
+
+#: experiment.js:414
+msgid "help6"
+msgstr "रिक्त बटन दबाएं ।"
+
+#: experiment.js:414
+msgid "help7"
+msgstr "रिक्त क्युवेट बाहर ले, और स्लॉट के लिए नमूना क्युवेट जगह है।"
+
+#: experiment.js:414
+msgid "help8"
+msgstr "नमूना बटन दबाएं ।"
+
+#: experiment.js:414
+msgid "help9"
+msgstr "दूसरा नमूना पढ़ पाने के लिए कदम 7 और 8 दोहराएँ।"
+
+#: experiment.js:414
+msgid "Next"
+msgstr "अगला"
+
+#: experiment.js:414
+msgid "Close"
+msgstr "बंद करे"
+
+#: experiment.js:415
+msgid "Isolation of Chloroplast"
+msgstr "अलगाव का क्लोरोप्लास्ट"
+
+#: experiment.js:416
+msgid "Variables"
+msgstr "चर"
+
+#: experiment.js:417
 msgid "Reset"
 msgstr "रीसेट"
 
-#~ msgid "Circular coil apparatus"
-#~ msgstr "Circular coil apparatus"
+#: experiment.js:418
+msgid "copyright"
+msgstr "कॉपीराइट © अमृता विश्वविद्यालय 2015 - 2009"
 
-#~ msgid "Radius of the coil"
-#~ msgstr "Radius of the coil"
+#~ msgid "Absorbent"
+#~ msgstr "शोषक"
 
-#~ msgid "Compass box position"
-#~ msgstr "Compass box position"
-
-#~ msgid "cm"
-#~ msgstr " cm"
-
-#~ msgid "Adjust rheostat"
-#~ msgstr "Adjust rheostat"
-
-#~ msgid "Variables"
-#~ msgstr "Variables"
-
-#~ msgid "Result"
-#~ msgstr "Result"
-
-#~ msgid "Number of turns of the coil"
-#~ msgstr "Number of turns of the coil"
-
-#~ msgid "Initial Adjustment"
-#~ msgstr "Initial Adjustment"
-
-#~ msgid "Insert Key"
-#~ msgstr "Insert Key"
-
-#~ msgid "Reverse Current"
-#~ msgstr "Reverse Current"
-
-#~ msgid "Show Result"
-#~ msgstr "Show Result"
-
-#~ msgid "Show Normal"
-#~ msgstr "Show Normal"
-
-#~ msgid "Zoom compass box"
-#~ msgstr "Zoom compass box"
-
-#~ msgid "Magnetic field at x,B(T)"
-#~ msgstr "Magnetic field at x,B(T)"
-
-#~ msgid "Remove Key"
-#~ msgstr "Remove Key"
-
-#~ msgid "Rotate compass box"
-#~ msgstr "Rotate compass box"
-
-#~ msgid "Rotate apparatus"
-#~ msgstr "Rotate apparatus"
-
-#~ msgid "Black Body Radiation: Stefan-Boltzmann Radiation Law"
-#~ msgstr "Black Body Radiation: Stefan-Boltzmann Radiation Law"
-
-#~ msgid "Power on"
-#~ msgstr "Power on"
-
-#~ msgid "g"
-#~ msgstr " g"
-
-#~ msgid "START"
-#~ msgstr "START"
-
-#~ msgid "Water Temperature "
-#~ msgstr "Water Temperature :"
-
-#~ msgid "Surrounding Temperature "
-#~ msgstr "Surrounding Temperature :"
-
-#~ msgid "Mass of Disc "
-#~ msgstr "Mass of Disc :"
-
-#~ msgid "Radius of Disc "
-#~ msgstr "Radius of Disc :"
-
-#~ msgid "cross-sectional view"
-#~ msgstr "Cross-sectional view"
-
-#~ msgid "Select temperature probe"
-#~ msgstr "Select temperature probe"
-
-#~ msgid "Fit the disc"
-#~ msgstr "Fit the disc"
-
-#~ msgid "STOP"
-#~ msgstr "STOP"
-
-#~ msgid "Aluminium"
-#~ msgstr "Aluminium"
-
-#~ msgid "Brass"
-#~ msgstr "Brass"
-
-#~ msgid "Iron"
-#~ msgstr "Iron"
-
-#~ msgid "Steel"
-#~ msgstr "Steel"
-
-#~ msgid "Copper"
-#~ msgstr "Copper"
-
-#~ msgid "Heat Transfer by Radiation"
-#~ msgstr "Heat Transfer by Radiation"
-
-#~ msgid "Choose material:"
-#~ msgstr "Choose material:"
-
-#~ msgid "Diameter of the plates (cm):"
-#~ msgstr "Diameter of the plates (cm):"
-
-#~ msgid "Thickness of the plates (cm):"
-#~ msgstr "Thickness of the plates (cm):"
-
-#~ msgid "Chamber temperature :"
-#~ msgstr "Chamber temperature :"
-
-#~ msgid "Show result"
-#~ msgstr "Show result"
+#~ msgid "Error"
+#~ msgstr "एरर"
 
 #~ msgid "Voltage of both heaters must be same."
-#~ msgstr "Voltage of both heaters must be same."
+#~ msgstr "दोनों के हीटर के वोल्टेज में ही किया जाना चाहिए।"
+
+#~ msgid "Okay"
+#~ msgstr "अच्छा"
+
+#~ msgid "Heat Transfer by Radiation"
+#~ msgstr "विकिरण से हीट ट्रांसफर"
+
+#~ msgid "Choose Material:"
+#~ msgstr "सामग्री का चयन:"
+
+#~ msgid "Aluminium"
+#~ msgstr "अल्युमीनियम"
+
+#~ msgid "Diameter of the plates (cm):"
+#~ msgstr "प्लेट (सेमी) का व्यास:"
+
+#~ msgid "Thickness of the plates (cm):"
+#~ msgstr "प्लेट (सेमी) की मोटाई:"
+
+#~ msgid "Chamber temperature (C):"
+#~ msgstr "चैंबर के तापमान (सी):"
+
+#~ msgid "Show Result"
+#~ msgstr "शो के परिणाम"
+
+#~ msgid "Power On"
+#~ msgstr "पावर पर"
+
+#~ msgid "Measurements"
+#~ msgstr "माप"
 
 #~ msgid "Emissivity of the test plate:"
-#~ msgstr "Emissivity of the test plate:"
+#~ msgstr "परीक्षण थाली का उत्सर्जन:"
 
-#~ msgid "Solution Controls"
-#~ msgstr "Solution Controls"
+#~ msgid "Brass"
+#~ msgstr "पीतल"
+
+#~ msgid "Iron"
+#~ msgstr "लोहा"
+
+#~ msgid "Steel"
+#~ msgstr "स्टील"
+
+#~ msgid "Copper"
+#~ msgstr "तांबा"
+
+#~ msgid "START"
+#~ msgstr "प्रारंभ"
+
+#~ msgid "STOP"
+#~ msgstr "रुकें"
+
+#~ msgid "Temperature (Y axis) Vs Time (X axis)"
+#~ msgstr "तापमान (वाई अक्ष ) बनाम समय ( एक्स अक्ष)"
+
+#~ msgid "Time (in minutes)"
+#~ msgstr "समय ( मिनट में )"
+
+#~ msgid "Temperature"
+#~ msgstr "तापमान"
+
+#~ msgid "Start Experiment"
+#~ msgstr "प्रयोग शुरू"
+
+#~ msgid "Thermometer reading:"
+#~ msgstr "थर्मामीटर पढ़ना:"
+
+#~ msgid "Show Graph"
+#~ msgstr "दिखाएँ ग्राफ"
+
+#~ msgid "Water"
+#~ msgstr "पानी"
+
+#~ msgid "Plot Graph"
+#~ msgstr "प्लॉट ग्राफ़"
+
+#~ msgid "Newton's Law of Cooling"
+#~ msgstr "ठंडा करने की न्यूटन का कानून"
+
+#~ msgid "Select material:"
+#~ msgstr "सामग्री का चयन करें :"
+
+#~ msgid "Select liquid:"
+#~ msgstr "चयन करें तरल :"
+
+#~ msgid "Silver"
+#~ msgstr "चांदी"
+
+#~ msgid "Milk"
+#~ msgstr "दूध"
+
+#~ msgid "Vegetable oil"
+#~ msgstr "वनस्पति तेल"
+
+#~ msgid "Olive oil"
+#~ msgstr "जैतून का तेल"
+
+#~ msgid "Start Heating"
+#~ msgstr "प्रारंभ करें ताप"
+
+#~ msgid "Stop Heating"
+#~ msgstr "बंद करो ताप"
+
+#~ msgid "Stop Plotting"
+#~ msgstr "बंद करो साजिश रचने"
+
+#~ msgid "Thermometer reading: "
+#~ msgstr "थर्मामीटर पढ़ना:"
+
+#~ msgid "Power on"
+#~ msgstr "പവർ ഓണ്‍ "
+
+#~ msgid "Choose material:"
+#~ msgstr "മെറ്റീരിയൽ തിരഞ്ഞെടുക്കുക:"
+
+#~ msgid "Chamber temperature :"
+#~ msgstr "ചേംബർ താപനില :"
+
+#~ msgid "Show result"
+#~ msgstr "കാണിക്കുക ഫലം"
 
 #~ msgid "Select Environment"
 #~ msgstr "Select Environment"
@@ -295,10 +423,6 @@ msgstr "रीसेट"
 #~ msgstr "Animals"
 
 #, fuzzy
-#~ msgid "Water"
-#~ msgstr "Water"
-
-#, fuzzy
 #~ msgid "2 hours"
 #~ msgstr "2 hours"
 
@@ -316,10 +440,6 @@ msgstr "रीसेट"
 #, fuzzy
 #~ msgid "Select the animal:"
 #~ msgstr "Select the animal:"
-
-#, fuzzy
-#~ msgid "Temperature:"
-#~ msgstr "Temperature:"
 
 #, fuzzy
 #~ msgid "Select the indicator:"
