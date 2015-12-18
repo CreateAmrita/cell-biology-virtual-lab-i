@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: d\n"
-"POT-Creation-Date: 2015-12-07 15:33+0530\n"
-"PO-Revision-Date: 2015-12-08 10:22+0530\n"
+"POT-Creation-Date: 2015-12-17 15:06+0530\n"
+"PO-Revision-Date: 2015-12-17 15:33+0530\n"
 "Last-Translator: \n"
 "Language-Team: d\n"
 "Language: hi\n"
@@ -14,167 +14,211 @@ msgstr ""
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: experiment.js:164
+#: experiment.js:161
 msgid "DNA"
 msgstr ""
 
-#: experiment.js:165
+#: experiment.js:162
 msgid "RNA"
 msgstr ""
 
-#: experiment.js:166
+#: experiment.js:163
 msgid "protein"
 msgstr "प्रोटीन"
 
-#: experiment.js:167
+#: experiment.js:164
 msgid "OD 600"
 msgstr ""
 
-#: experiment.js:168
+#: experiment.js:165
 msgid "dye 500"
 msgstr ""
 
-#: experiment.js:169
+#: experiment.js:166
 msgid "dye 650"
 msgstr ""
 
-#: experiment.js:170
+#: experiment.js:167
 msgid "assay 340"
 msgstr ""
 
-#: experiment.js:171
+#: experiment.js:168
 msgid "assay 405"
 msgstr ""
 
-#: experiment.js:172
+#: experiment.js:169
 msgid "assay 490"
 msgstr ""
 
-#: experiment.js:173
+#: experiment.js:170
 msgid "Absorbance"
 msgstr "शोषक"
 
-#: experiment.js:174
+#: experiment.js:171
 msgid "Function"
 msgstr "समारोह"
 
-#: experiment.js:175
+#: experiment.js:172
 msgid "Parameter"
 msgstr "पैरामीटर"
 
-#: experiment.js:176
+#: experiment.js:173
 msgid "Clear"
 msgstr "स्पष्ट"
 
-#: experiment.js:177
+#: experiment.js:174
 msgid "Enter"
 msgstr "दर्ज"
 
-#: experiment.js:178
+#: experiment.js:175
 msgid "Standard"
 msgstr "मानक"
 
-#: experiment.js:179
+#: experiment.js:176
 msgid "Blank"
 msgstr "रिक्त"
 
-#: experiment.js:180
+#: experiment.js:177
 msgid "Sample"
 msgstr "नमूना"
 
-#: experiment.js:181
+#: experiment.js:182
 msgid "405 nm"
 msgstr ""
 
-#: experiment.js:182
+#: experiment.js:183
 msgid "490 nm"
 msgstr ""
 
-#: experiment.js:183 experiment.js:184
+#: experiment.js:184 experiment.js:185
 msgid "550 nm"
 msgstr ""
 
-#: experiment.js:185
+#: experiment.js:186
 msgid "595 nm"
 msgstr ""
 
-#: experiment.js:186
+#: experiment.js:187
 msgid "650 nm"
 msgstr ""
 
-#: experiment.js:187
+#: experiment.js:188
 msgid "Absorbance 650 nm"
 msgstr "शोषक 650 एनएम"
 
-#: experiment.js:188
+#: experiment.js:189
 msgid "0.000 A"
 msgstr ""
 
-#: experiment.js:189
+#: experiment.js:190
 msgid "0.580 A"
 msgstr ""
 
-#: experiment.js:190
+#: experiment.js:191
 msgid "0.610 A"
 msgstr ""
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "help1"
 msgstr " शोषक मूल्यों को प्राप्त करने के लिए शोषक के स्विच दबाएँ।"
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "help2"
 msgstr "650 एनएम के लिए अंक तक नीचे तीर बटन दबाएं।"
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "help3"
 msgstr "तब बटन.शोषक के मूल्य 650 एनएम प्रदर्शित करेगा प्रेस दर्ज करें।"
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "help4"
 msgstr "क्युवेट स्लॉट के ढक्कन पर क्लिक करें।"
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "help5"
 msgstr "क्युवेट स्लॉट के लिए में खाली रखें।"
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "help6"
 msgstr "रिक्त बटन दबाएं ।"
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "help7"
 msgstr "रिक्त क्युवेट बाहर ले, और स्लॉट के लिए नमूना क्युवेट जगह है।"
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "help8"
 msgstr "नमूना बटन दबाएं ।"
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "help9"
 msgstr "दूसरा नमूना पढ़ पाने के लिए कदम 7 और 8 दोहराएँ।"
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "Next"
 msgstr "अगला"
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "Close"
 msgstr "बंद करे"
 
-#: experiment.js:415
+#: experiment.js:437
 msgid "Isolation of Chloroplast"
 msgstr "अलगाव का क्लोरोप्लास्ट"
 
-#: experiment.js:416
+#: experiment.js:438
+msgid "Instructions"
+msgstr "अनुदेश"
+
+#: experiment.js:439
 msgid "Variables"
 msgstr "चर"
 
-#: experiment.js:417
+#: experiment.js:440
+msgid "Click on the 'Absorbance' button."
+msgstr "●  अब्ज़ॉर्प्शन बटन पर क्लिक करें।"
+
+#: experiment.js:441
+msgid "Click the down arrow to set the value 650 nm."
+msgstr "●  मूल्य 650 एनएम सेट करने के लिए नीचे तीर क्लिक करें।"
+
+#: experiment.js:442
+msgid "Click 'Enter' button."
+msgstr "●   बटन ' दर्ज ' पर क्लिक करें ।"
+
+#: experiment.js:443
+msgid "Click on the lid to remove it."
+msgstr "●   इसे दूर करने के ढक्कन पर क्लिक करें।"
+
+#: experiment.js:444
+msgid "Drag and drop the blank cuvette  into the cuvette slot."
+msgstr "●   खींचें और क्युवेट स्लॉट में खाली क्युवेट ड्रॉप।"
+
+#: experiment.js:445
+msgid "Click on the 'Blank' button."
+msgstr "●   'खाली ' बटन पर क्लिक करें।"
+
+#: experiment.js:446
+msgid "Click on the blank cuvette to remove it from the cuvette slot"
+msgstr "●   क्युवेट स्लॉट से इसे हटाने के लिए खाली क्युवेट पर क्लिक करें"
+
+#: experiment.js:447
+msgid "Drag the cuvette, containing sample, into the cuvette slot."
+msgstr "●   क्युवेट स्लॉट में , नमूना युक्त , क्युवेट खींचें।"
+
+#: experiment.js:448
+msgid "Click on the 'Sample' button."
+msgstr "●   'नमूना ' बटन पर क्लिक करें।"
+
+#: experiment.js:449
+msgid "Click on the 'Help' icon for more help."
+msgstr "●   अधिक मदद के लिए 'मदद ' आइकन पर क्लिक करें ।"
+
+#: experiment.js:450
 msgid "Reset"
 msgstr "रीसेट"
 
-#: experiment.js:418
+#: experiment.js:451
 msgid "copyright"
 msgstr "कॉपीराइट © अमृता विश्वविद्यालय 2015 - 2009"
 

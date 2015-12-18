@@ -437,7 +437,18 @@ function directiveFunction() {
                 /** This help array shows the hints for this experiment */
                 helpArray = [_("help1"),_("help2"), _("help3"), _("help4"), _("help5"), _("help6"),_("help7"),_("help8"),_("help9"),_("Next"), _("Close")];
                 scope.heading = _("Isolation of Chloroplast");
+                scope.instructions = _("Instructions");
                 scope.variables = _("Variables");
+                scope.insructions1=_("Click on the 'Absorbance' button.");
+                scope.insructions2=_("Click the down arrow to set the value 650 nm.");
+                scope.insructions3=_("Click 'Enter' button.");
+                scope.insructions4=_("Click on the lid to remove it.");
+                scope.insructions5=_("Drag and drop the blank cuvette  into the cuvette slot.");
+                scope.insructions6=_("Click on the 'Blank' button.");
+                scope.insructions7=_("Click on the blank cuvette to remove it from the cuvette slot");
+                scope.insructions8=_("Drag the cuvette, containing sample, into the cuvette slot.");
+                scope.insructions9=_("Click on the 'Sample' button.");
+                scope.insructions10=_("Click on the 'Help' icon for more help.");
                 scope.reset = _("Reset");
                 scope.copyright = _("copyright");
                 scope.$apply();

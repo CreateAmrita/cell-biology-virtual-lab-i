@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: d\n"
-"POT-Creation-Date: 2015-12-07 15:33+0530\n"
-"PO-Revision-Date: 2015-12-08 10:20+0530\n"
+"POT-Creation-Date: 2015-12-17 14:56+0530\n"
+"PO-Revision-Date: 2015-12-17 15:44+0530\n"
 "Last-Translator: \n"
 "Language-Team: d\n"
 "Language: hi\n"
@@ -15,170 +15,215 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: experiment.js:164
+#: experiment.js:161
 msgid "DNA"
 msgstr "DNA"
 
-#: experiment.js:165
+#: experiment.js:162
 msgid "RNA"
 msgstr "RNA"
 
-#: experiment.js:166
+#: experiment.js:163
 msgid "protein"
 msgstr "protein"
 
-#: experiment.js:167
+#: experiment.js:164
 msgid "OD 600"
 msgstr "OD 600"
 
-#: experiment.js:168
+#: experiment.js:165
 msgid "dye 500"
 msgstr "dye 500"
 
-#: experiment.js:169
+#: experiment.js:166
 msgid "dye 650"
 msgstr "dye 650"
 
-#: experiment.js:170
+#: experiment.js:167
 msgid "assay 340"
 msgstr "assay 340"
 
-#: experiment.js:171
+#: experiment.js:168
 msgid "assay 405"
 msgstr "assay 405"
 
-#: experiment.js:172
+#: experiment.js:169
 msgid "assay 490"
 msgstr "assay 490"
 
-#: experiment.js:173
+#: experiment.js:170
 msgid "Absorbance"
 msgstr "Absorbance"
 
-#: experiment.js:174
+#: experiment.js:171
 msgid "Function"
 msgstr "Function"
 
-#: experiment.js:175
+#: experiment.js:172
 msgid "Parameter"
 msgstr "Parameter"
 
-#: experiment.js:176
+#: experiment.js:173
 msgid "Clear"
 msgstr "Clear"
 
-#: experiment.js:177
+#: experiment.js:174
 msgid "Enter"
 msgstr "Enter"
 
-#: experiment.js:178
+#: experiment.js:175
 msgid "Standard"
 msgstr "Standard"
 
-#: experiment.js:179
+#: experiment.js:176
 msgid "Blank"
 msgstr "Blank"
 
-#: experiment.js:180
+#: experiment.js:177
 msgid "Sample"
 msgstr "Sample"
 
-#: experiment.js:181
+#: experiment.js:182
 msgid "405 nm"
 msgstr "405 nm"
 
-#: experiment.js:182
+#: experiment.js:183
 msgid "490 nm"
 msgstr "490 nm"
 
-#: experiment.js:183 experiment.js:184
+#: experiment.js:184 experiment.js:185
 msgid "550 nm"
 msgstr "550 nm"
 
-#: experiment.js:185
+#: experiment.js:186
 msgid "595 nm"
 msgstr "595 nm"
 
-#: experiment.js:186
+#: experiment.js:187
 msgid "650 nm"
 msgstr "650 nm"
 
-#: experiment.js:187
+#: experiment.js:188
 msgid "Absorbance 650 nm"
 msgstr "Absorbance 650 nm"
 
-#: experiment.js:188
+#: experiment.js:189
 msgid "0.000 A"
 msgstr "0.000 A"
 
-#: experiment.js:189
+#: experiment.js:190
 msgid "0.580 A"
 msgstr "0.580 A"
 
-#: experiment.js:190
+#: experiment.js:191
 msgid "0.610 A"
 msgstr "0.610 A"
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "help1"
-msgstr "Press the absorbance switch to get  the absorbanace values. "
+msgstr "Press the 'Absorbance' switch to get  the absorbanace values. "
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "help2"
 msgstr "Press down the arrow button till points to 650 nm.    "
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "help3"
-msgstr "Then press the enter button.It will display absorbance value 650 nm."
+msgstr ""
+"Then press the 'Enter' button. It will display absorbance value 650 nm."
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "help4"
 msgstr "Click on the lid of the  cuvette slot. "
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "help5"
 msgstr "Place the Blank in to the cuvette slot."
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "help6"
-msgstr "Press the Blank button."
+msgstr "Press the 'Blank' button."
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "help7"
 msgstr ""
 "Take out the Blank cuvette and place the sample cuvette in to the  slot."
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "help8"
-msgstr "Press the Sample button.       "
+msgstr "Press the 'Sample' button.       "
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "help9"
 msgstr ""
 "Repeat the  steps 7 & 8 to get the second sample "
 "reading.                            "
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "Next"
 msgstr "Next"
 
-#: experiment.js:414
+#: experiment.js:436
 msgid "Close"
 msgstr "Close"
 
-#: experiment.js:415
+#: experiment.js:437
 msgid "Isolation of Chloroplast"
 msgstr "Isolation of Chloroplast"
 
-#: experiment.js:416
+#: experiment.js:438
+msgid "Instructions"
+msgstr "Instructions"
+
+#: experiment.js:439
 msgid "Variables"
 msgstr "Variables"
 
-#: experiment.js:417
+#: experiment.js:440
+msgid "Click on the 'Absorbance' button."
+msgstr "●  Click on the 'Absorbance' button."
+
+#: experiment.js:441
+msgid "Click the down arrow to set the value 650 nm."
+msgstr "●  Click the down arrow to set the value 650 nm."
+
+#: experiment.js:442
+msgid "Click 'Enter' button."
+msgstr "●  Click 'Enter' button."
+
+#: experiment.js:443
+msgid "Click on the lid to remove it."
+msgstr "●  Click on the lid to remove it."
+
+#: experiment.js:444
+msgid "Drag and drop the blank cuvette  into the cuvette slot."
+msgstr "●  Drag and drop the blank cuvette  into the cuvette slot."
+
+#: experiment.js:445
+msgid "Click on the 'Blank' button."
+msgstr "●  Click on the 'Blank' button."
+
+#: experiment.js:446
+msgid "Click on the blank cuvette to remove it from the cuvette slot"
+msgstr "●  Click on the blank cuvette to remove it from the cuvette slot."
+
+#: experiment.js:447
+msgid "Drag the cuvette, containing sample, into the cuvette slot."
+msgstr "●  Drag the cuvette, containing sample, into the cuvette slot."
+
+#: experiment.js:448
+msgid "Click on the 'Sample' button."
+msgstr "●  Click on the 'Sample' button."
+
+#: experiment.js:449
+msgid "Click on the 'Help' icon for more help."
+msgstr "●  Click on the 'Help' icon for more help."
+
+#: experiment.js:450
 msgid "Reset"
 msgstr "Reset"
 
-#: experiment.js:418
+#: experiment.js:451
 msgid "copyright"
 msgstr "Copyright © Amrita University 2009 - 2015"
 
