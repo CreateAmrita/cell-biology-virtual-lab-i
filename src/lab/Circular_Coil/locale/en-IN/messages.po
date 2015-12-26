@@ -1,154 +1,297 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: d\n"
-"POT-Creation-Date: 2015-10-30 14:43+0530\n"
-"PO-Revision-Date: 2015-10-30 14:47+0530\n"
+"POT-Creation-Date: 2015-12-17 14:56+0530\n"
+"PO-Revision-Date: 2015-12-17 15:44+0530\n"
 "Last-Translator: \n"
 "Language-Team: d\n"
 "Language: hi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.11\n"
+"X-Generator: Poedit 1.6.10\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop;gt.gettext\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: UserController.js:12
-msgid "Error"
-msgstr "Error"
+#: experiment.js:161
+msgid "DNA"
+msgstr "DNA"
 
-#: UserController.js:13
-msgid "Error in initial Adjustment of the apparatus."
-msgstr "Error in initial Adjustment of the apparatus."
+#: experiment.js:162
+msgid "RNA"
+msgstr "RNA"
 
-#: UserController.js:14
-msgid "Okay"
-msgstr "Okay"
+#: experiment.js:163
+msgid "protein"
+msgstr "protein"
 
-#: experiment.js:256
+#: experiment.js:164
+msgid "OD 600"
+msgstr "OD 600"
+
+#: experiment.js:165
+msgid "dye 500"
+msgstr "dye 500"
+
+#: experiment.js:166
+msgid "dye 650"
+msgstr "dye 650"
+
+#: experiment.js:167
+msgid "assay 340"
+msgstr "assay 340"
+
+#: experiment.js:168
+msgid "assay 405"
+msgstr "assay 405"
+
+#: experiment.js:169
+msgid "assay 490"
+msgstr "assay 490"
+
+#: experiment.js:170
+msgid "Absorbance"
+msgstr "Absorbance"
+
+#: experiment.js:171
+msgid "Function"
+msgstr "Function"
+
+#: experiment.js:172
+msgid "Parameter"
+msgstr "Parameter"
+
+#: experiment.js:173
+msgid "Clear"
+msgstr "Clear"
+
+#: experiment.js:174
+msgid "Enter"
+msgstr "Enter"
+
+#: experiment.js:175
+msgid "Standard"
+msgstr "Standard"
+
+#: experiment.js:176
+msgid "Blank"
+msgstr "Blank"
+
+#: experiment.js:177
+msgid "Sample"
+msgstr "Sample"
+
+#: experiment.js:182
+msgid "405 nm"
+msgstr "405 nm"
+
+#: experiment.js:183
+msgid "490 nm"
+msgstr "490 nm"
+
+#: experiment.js:184 experiment.js:185
+msgid "550 nm"
+msgstr "550 nm"
+
+#: experiment.js:186
+msgid "595 nm"
+msgstr "595 nm"
+
+#: experiment.js:187
+msgid "650 nm"
+msgstr "650 nm"
+
+#: experiment.js:188
+msgid "Absorbance 650 nm"
+msgstr "Absorbance 650 nm"
+
+#: experiment.js:189
+msgid "0.000 A"
+msgstr "0.000 A"
+
+#: experiment.js:190
+msgid "0.580 A"
+msgstr "0.580 A"
+
+#: experiment.js:191
+msgid "0.610 A"
+msgstr "0.610 A"
+
+#: experiment.js:436
 msgid "help1"
-msgstr "Click on the 'Initial adjustment' button"
+msgstr "Press the 'Absorbance' switch to get  the absorbanace values. "
 
-#: experiment.js:256
+#: experiment.js:436
 msgid "help2"
-msgstr ""
-"Rotate the compass using\"Rotate compass \" slider, and set the value 90 "
-"parallel to the apparatus."
+msgstr "Press down the arrow button till points to 650 nm.    "
 
-#: experiment.js:256
+#: experiment.js:436
 msgid "help3"
 msgstr ""
-"Rotate the apparatus using the 'Rotate the apparatus' slider, and adjust the "
-"needle to the position of 0."
+"Then press the 'Enter' button. It will display absorbance value 650 nm."
 
-#: experiment.js:256
+#: experiment.js:436
 msgid "help4"
-msgstr "Click on the 'Show Normal' button."
+msgstr "Click on the lid of the  cuvette slot. "
 
-#: experiment.js:256
+#: experiment.js:436
 msgid "help5"
-msgstr "Connect the connections, then click on the 'Insert key' button."
+msgstr "Place the Blank in to the cuvette slot."
 
-#: experiment.js:256
+#: experiment.js:436
 msgid "help6"
-msgstr "'Reverse Current' button gives the reverse current."
+msgstr "Press the 'Blank' button."
 
-#: experiment.js:256
+#: experiment.js:436
 msgid "help7"
-msgstr "Checkbox 'Show Result' gives the result reading."
+msgstr ""
+"Take out the Blank cuvette and place the sample cuvette in to the  slot."
 
-#: experiment.js:256
+#: experiment.js:436
+msgid "help8"
+msgstr "Press the 'Sample' button.       "
+
+#: experiment.js:436
+msgid "help9"
+msgstr ""
+"Repeat the  steps 7 & 8 to get the second sample "
+"reading.                            "
+
+#: experiment.js:436
 msgid "Next"
 msgstr "Next"
 
-#: experiment.js:256
+#: experiment.js:436
 msgid "Close"
 msgstr "Close"
 
-#: experiment.js:257
-msgid "Magnetic Field Along The Axis of A Circular Coil Carrying Current"
-msgstr "Magnetic Field Along The Axis of A Circular Coil Carrying Current"
+#: experiment.js:437
+msgid "Isolation of Chloroplast"
+msgstr "Isolation of Chloroplast"
 
-#: experiment.js:258
+#: experiment.js:438
+msgid "Instructions"
+msgstr "Instructions"
+
+#: experiment.js:439
 msgid "Variables"
 msgstr "Variables"
 
-#: experiment.js:259
-msgid "Number of turns of the coil"
-msgstr "Number of turns of the coil"
+#: experiment.js:440
+msgid "Click on the 'Absorbance' button."
+msgstr "●  Click on the 'Absorbance' button."
 
-#: experiment.js:260
-msgid "Initial Adjustment"
-msgstr "Initial Adjustment"
+#: experiment.js:441
+msgid "Click the down arrow to set the value 650 nm."
+msgstr "●  Click the down arrow to set the value 650 nm."
 
-#: experiment.js:261 experiment.js:715
-msgid "Insert Key"
-msgstr "Insert Key"
+#: experiment.js:442
+msgid "Click 'Enter' button."
+msgstr "●  Click 'Enter' button."
 
-#: experiment.js:262
-msgid "Reverse Current"
-msgstr "Reverse Current"
+#: experiment.js:443
+msgid "Click on the lid to remove it."
+msgstr "●  Click on the lid to remove it."
 
-#: experiment.js:263
-msgid "Radius of the coil "
-msgstr "Radius of the coil "
+#: experiment.js:444
+msgid "Drag and drop the blank cuvette  into the cuvette slot."
+msgstr "●  Drag and drop the blank cuvette  into the cuvette slot."
 
-#: experiment.js:264
-msgid "Compass box position "
-msgstr "Compass position "
+#: experiment.js:445
+msgid "Click on the 'Blank' button."
+msgstr "●  Click on the 'Blank' button."
 
-#: experiment.js:265
-msgid "Adjust rheostat"
-msgstr "Adjust rheostat"
+#: experiment.js:446
+msgid "Click on the blank cuvette to remove it from the cuvette slot"
+msgstr "●  Click on the blank cuvette to remove it from the cuvette slot."
 
-#: experiment.js:266
-msgid "Rotate compass box"
-msgstr "Rotate compass "
+#: experiment.js:447
+msgid "Drag the cuvette, containing sample, into the cuvette slot."
+msgstr "●  Drag the cuvette, containing sample, into the cuvette slot."
 
-#: experiment.js:267
-msgid "Rotate apparatus"
-msgstr "Rotate apparatus"
+#: experiment.js:448
+msgid "Click on the 'Sample' button."
+msgstr "●  Click on the 'Sample' button."
 
-#: experiment.js:268 experiment.js:764
-msgid "cm"
-msgstr "cm"
+#: experiment.js:449
+msgid "Click on the 'Help' icon for more help."
+msgstr "●  Click on the 'Help' icon for more help."
 
-#: experiment.js:269
-msgid "Show Result"
-msgstr "Show Result"
-
-#: experiment.js:270
+#: experiment.js:450
 msgid "Reset"
 msgstr "Reset"
 
-#: experiment.js:271
-msgid "Result"
-msgstr "Result"
-
-#: experiment.js:272 experiment.js:419
-msgid "Show Normal"
-msgstr "Show Normal"
-
-#: experiment.js:273
+#: experiment.js:451
 msgid "copyright"
 msgstr "Copyright © Amrita University 2009 - 2015"
 
-#: experiment.js:427
-msgid "Zoom Compass"
-msgstr "Zoom compass"
+#~ msgid "Absorbent"
+#~ msgstr "Absorbance "
 
-#: experiment.js:708
-msgid "Remove Key"
-msgstr "Remove Key"
+#~ msgid "495 nm"
+#~ msgstr "495 nm"
 
-#: experiment.js:764
-msgid "Magnetic field at"
-msgstr "Magnetic field at x, ( BT ) :"
+#~ msgid "560 nm"
+#~ msgstr "560 nm"
 
-#~ msgid "Circular Coil"
-#~ msgstr "Circular Coil"
+#~ msgid "Error"
+#~ msgstr "Error"
+
+#~ msgid "Voltage of both heaters must be same."
+#~ msgstr "Voltage of both heaters must be same."
+
+#~ msgid "Okay"
+#~ msgstr "Okay"
+
+#~ msgid "Heat Transfer by Radiation"
+#~ msgstr "Heat Transfer by Radiation"
+
+#~ msgid "Choose Material:"
+#~ msgstr "Choose Material:"
+
+#~ msgid "Aluminium"
+#~ msgstr "Aluminium"
+
+#~ msgid "Diameter of the plates (cm):"
+#~ msgstr "Diameter of the plates (cm):"
+
+#~ msgid "Thickness of the plates (cm):"
+#~ msgstr "Thickness of the plates (cm):"
+
+#~ msgid "Chamber temperature (C):"
+#~ msgstr "Chamber temperature (C):"
+
+#~ msgid "Show Result"
+#~ msgstr "Show Result"
+
+#~ msgid "Power On"
+#~ msgstr "Power On"
+
+#~ msgid "Measurements"
+#~ msgstr "Measurements"
+
+#~ msgid "Emissivity of the test plate:"
+#~ msgstr "Emissivity of the test plate:"
+
+#~ msgid "Brass"
+#~ msgstr "Brass"
+
+#~ msgid "Iron"
+#~ msgstr "Iron"
+
+#~ msgid "Steel"
+#~ msgstr "Steel"
+
+#~ msgid "Copper"
+#~ msgstr "Copper"
+
+#~ msgid "START"
+#~ msgstr "START"
+
+#~ msgid "STOP"
+#~ msgstr "STOP"
 
 #~ msgid "Temperature (Y axis) Vs Time (X axis)"
 #~ msgstr "Temperature (Y axis) Vs Time (X axis)"
@@ -159,23 +302,14 @@ msgstr "Magnetic field at x, ( BT ) :"
 #~ msgid "Temperature"
 #~ msgstr "Temperature"
 
-#~ msgid "START"
-#~ msgstr "START"
-
 #~ msgid "Start Experiment"
 #~ msgstr "Start Experiment"
-
-#~ msgid "Measurements"
-#~ msgstr "Measurements"
 
 #~ msgid "Thermometer reading:"
 #~ msgstr "Thermometer reading:"
 
 #~ msgid "Show Graph"
 #~ msgstr "Show Graph"
-
-#~ msgid "Brass"
-#~ msgstr "Brass"
 
 #~ msgid "Water"
 #~ msgstr "Water"
@@ -191,12 +325,6 @@ msgstr "Magnetic field at x, ( BT ) :"
 
 #~ msgid "Select liquid:"
 #~ msgstr "Select liquid:"
-
-#~ msgid "Copper"
-#~ msgstr "Copper"
-
-#~ msgid "Aluminium"
-#~ msgstr "Aluminium"
 
 #~ msgid "Silver"
 #~ msgstr "Silver"
@@ -216,9 +344,6 @@ msgstr "Magnetic field at x, ( BT ) :"
 #~ msgid "Stop Heating"
 #~ msgstr "Stop Heating"
 
-#~ msgid "STOP"
-#~ msgstr "STOP"
-
 #~ msgid "Stop Plotting"
 #~ msgstr "Stop Plotting"
 
@@ -228,35 +353,14 @@ msgstr "Magnetic field at x, ( BT ) :"
 #~ msgid "Power on"
 #~ msgstr "Power on"
 
-#~ msgid "Emissivity of the test plate:"
-#~ msgstr "Emissivity of the test plate:"
-
-#~ msgid "Iron"
-#~ msgstr "Iron"
-
-#~ msgid "Steel"
-#~ msgstr "Steel"
-
-#~ msgid "Heat Transfer by Radiation"
-#~ msgstr "Heat Transfer by Radiation"
-
 #~ msgid "Choose material:"
 #~ msgstr "Choose material:"
-
-#~ msgid "Diameter of the plates (cm):"
-#~ msgstr "Diameter of the plates (cm):"
-
-#~ msgid "Thickness of the plates (cm):"
-#~ msgstr "Thickness of the plates (cm):"
 
 #~ msgid "Chamber temperature :"
 #~ msgstr "Chamber temperature :"
 
 #~ msgid "Show result"
 #~ msgstr "Show result"
-
-#~ msgid "Solution Controls"
-#~ msgstr "Solution Controls"
 
 #~ msgid "Select Environment"
 #~ msgstr "Select Environment"
