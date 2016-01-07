@@ -19,7 +19,7 @@
     <script src="../template/js/Gettext.js"></script>
     <script type="text/javascript" src="../template/bower_components/angular-material/angular-material.js"></script>
     <script src="../template/js/getlanguage.js"></script>
-    <script src="./src/UserController.js"></script>
+    <script src="./src/user_controller.js"></script>
     <script src="./src/experiment.js"></script>
     <script type="text/javascript">
         angular
@@ -37,8 +37,7 @@
 </head>
 
 <body style="background-color: #f2f2f2;" ng-app="starterApp" ng-controller="UserController as ul">
-
-  <md-toolbar class="md-toolbar-tools" id="main">
+<md-toolbar class="md-toolbar-tools" id="main">
     <md-button class="md-icon-button" hide-gt-sm ng-click="ul.toggleList()" aria-label="Show User List">
       <md-icon md-svg-icon="menu" ></md-icon>
     </md-button>
@@ -75,7 +74,8 @@
           <md-content class="md-title selectable" ng-model="insructions8" layout-padding id="id_insructions4">{{insructions8}}</md-content>
           <md-content class="md-title selectable" ng-model="insructions9" layout-padding id="id_insructions4">{{insructions9}}</md-content>
           <md-content class="md-title selectable" ng-model="insructions10" layout-padding id="id_insructions4">{{insructions10}}</md-content>
-        </div>
+        </div> 
+
         <md-button id="measurement" class="md-raised md-primary toolbarbutton subTitle" ng-click="toggle()">{{variables}} 
                     <span aria-hidden="true">
                     <md-icon md-svg-src="md-toggle-arrow"   aria-hidden="true" ng-animate="{enter: 'rotate', leave: 'rotateCounterwise'}" ng-class="{true: 'rotate', false: 'rotateCounterwise'}[isActive]" ></md-icon>
