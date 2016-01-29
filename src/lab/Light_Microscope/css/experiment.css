@@ -1,0 +1,20 @@
+chart {
+	display: block;
+	width: 400px;
+	height: 200px;
+}
+#graphDiv {
+	position: absolute;
+	left: 10%;
+	top: 9%;
+	opacity: 0.9;
+}
+#showRod {
+    font-weight: bold;
+    font-size: 100%;
+}
+#showNormal{
+    position: relative;
+    left: 267px;
+    top: 690px;
+}
