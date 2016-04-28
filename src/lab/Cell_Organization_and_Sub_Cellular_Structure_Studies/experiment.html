@@ -40,7 +40,7 @@
 <body style="background-color: #f2f2f2;" ng-app="starterApp" ng-controller="UserController as ul">
 
   <md-toolbar class="md-toolbar-tools" id="main">
-    <md-button class="md-icon-button" hide-gt-sm ng-click="ul.toggleList()" aria-label="Show User List">
+    <md-button class="md-icon-button" hide-gt-md ng-click="ul.toggleList()" aria-label="Show User List">
       <md-icon md-svg-icon="menu" ></md-icon>
     </md-button>
     <!-- //Experiment title gives here//   -->
@@ -59,7 +59,7 @@
         <div id="Copyright">{{copyright}}</div> 
     </md-content>
 
-    <md-sidenav class="site-sidenav md-sidenav-left" md-component-id="right" md-is-locked-open="$mdMedia('gt-sm')" md-swipe-left="toggleSidenav()">
+    <md-sidenav class="site-sidenav md-sidenav-left" md-component-id="right" md-is-locked-open="$mdMedia('gt-md')" md-swipe-left="toggleSidenav()">
       <div>  
           <md-button id="variables" class="md-raised md-primary toolbarbutton subTitle" ng-click="toggle1()">{{variables}}<span aria-hidden="true">
               <md-icon md-svg-src="md-toggle-arrow"  aria-hidden="true" ng-animate="{enter: 'rotate', leave: 'rotateCounterwise'}" ng-class="{true: 'rotate', false: 'rotateCounterwise'}[isActive1]" ></md-icon>
