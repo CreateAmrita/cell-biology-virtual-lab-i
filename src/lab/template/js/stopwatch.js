@@ -15,6 +15,8 @@ var hour=0, minute=0, second=0, millisecond=0, milli=0, total_time=0;
 
 var time_array=[];
 
+var listner_play;
+
 //clock interval runs between 1 ms and 0.1ms 
 function createStopwatch(stage,x,y,interval) {
 	/** Creating  container */	
@@ -32,7 +34,7 @@ function createStopwatch(stage,x,y,interval) {
 	setText("stopWatchSec",x+135,y+73);	
 	setText("stopWatchmilli",x+170,y+73);
 	initializeText("00","00","00","000",stage);
-	clockContainer.getChildByName("play").on("click",function(){startWatch(stage)});
+	listner_play = clockContainer.getChildByName("play").on("click",function(){startWatch(stage)});
 	clockContainer.getChildByName("pause").on("click",function(){pauseWatch()});
 	clockContainer.getChildByName("reset").on("click",function(){resetWatch()});
 

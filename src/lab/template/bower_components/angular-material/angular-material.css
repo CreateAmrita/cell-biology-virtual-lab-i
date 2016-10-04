@@ -260,8 +260,7 @@ select, button, textarea, input {
           flex-wrap: wrap; }
 
 [layout-fill] {
-  margin: 0;
-  min-height: 100%;
+  margin: 0; 
   width: 100%; }
 
 @-moz-document url-prefix() {
@@ -5796,7 +5795,7 @@ md-sidenav {
   md-sidenav.md-closed-add.md-closed-add-active, md-sidenav.md-closed-remove.md-closed-remove-active {
     transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); }
   md-sidenav.md-locked-open-add, md-sidenav.md-locked-open-remove {
-    position: static;
+    position: fixed;
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
